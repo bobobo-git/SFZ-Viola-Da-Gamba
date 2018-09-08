@@ -10,7 +10,7 @@ came up from mid to late 15th century and were most popular in the Renaissance a
 [here](https://en.wikipedia.org/wiki/Viol) you'll find more info
 
 i took the samples from  
-http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html
+[http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html](http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html)
 
 and i was pleased to have fun making a sfz of the viol-samples  
 playable with sfz-player like sforzando from plogue  
