@@ -11,4 +11,5 @@ http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.ht
 and i was pleased to have fun making a sfz of the viol-samples  
 
 
-<https://bobobo-git.github.io/hearme/>
+
+<https://bobobo-git.github.io/SFZ-Viola-Da-Gamba/>
