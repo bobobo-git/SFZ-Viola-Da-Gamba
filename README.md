@@ -2,20 +2,23 @@
 
 # Viola Da Gamba
 
+---
+
 fretted bowed instruments spun with gut  
 
-came up from mid to late 15th century and were most popular in the Renaissance and Baroque periods.
+came up from mid to late 15th century and were most popular in the Renaissance and Baroque periods.  
+[here](https://en.wikipedia.org/wiki/Viol) you'll find more info
 
-i found some samles and made a sfz playable in sfz-players like sforzando from Plogue
-
-the samples came from
+i took the samples from  
 http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html
 
 and i was pleased to have fun making a sfz of the viol-samples  
+playable with sfz-player like sforzando from plogue  
 
-it is a simple instrument and coud be used to fill up content when it needs to   
+it is a simple instrument and coud be used to fill up content when it needs to, maybe never  
 
 [Download](sfz/violadagamba.zip)  
 
+----
 
 [Viola Da Gamba](https://bobobo-git.github.io/SFZ-Viola-Da-Gamba/) <a style="float:right;" href="https://github.com/bobobo-git/SFZ-Viola-Da-Gamba/">.</a>
