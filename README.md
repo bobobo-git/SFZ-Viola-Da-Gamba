@@ -19,6 +19,8 @@ it is a simple instrument and coud be used to fill up content when it needs to, 
 
 [Download](sfz/violadagamba.zip)  
 
+i hope more to follow soon. i found more viol samples here.  
+
 ----
 
 [Viola Da Gamba](https://bobobo-git.github.io/SFZ-Viola-Da-Gamba/) <a style="float:right;" href="https://github.com/bobobo-git/SFZ-Viola-Da-Gamba/">.</a>
