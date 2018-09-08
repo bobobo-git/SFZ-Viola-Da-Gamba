@@ -12,7 +12,7 @@ and i was pleased to have fun making a sfz of the viol-samples
 
 it is a simple instrument and coud be used to fill up content when it needs to   
 
-[Download](sfz/violadagamba.zip)
+[Download](sfz/violadagamba.zip)  
+![picture](bg.png)
 
-
-<https://bobobo-git.github.io/SFZ-Viola-Da-Gamba/>
+[Viola Da Gamba](https://bobobo-git.github.io/SFZ-Viola-Da-Gamba/) <a style="float:right;" href="https://github.com/bobobo-git/SFZ-Viola-Da-Gamba/">.</a>
