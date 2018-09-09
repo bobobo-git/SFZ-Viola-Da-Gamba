@@ -13,7 +13,7 @@ i took the samples from
 [Bigcat Instruments](http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html)
 
 and i was pleased to have fun making a sfz of the viol-samples  
-playable with sfz-player like sforzando from plogue  
+playable with sfz-player like [sforzando}(https://www.plogue.com/) from [plogue](https://www.plogue.com/products/sforzando.html)  
 
 it is a simple instrument and coud be used to fill up content when it needs to, maybe never  
 
