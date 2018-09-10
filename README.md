@@ -19,7 +19,10 @@ it is a simple instrument and coud be used to fill up content when it needs to, 
 
 [Download](sfz/violadagamba.zip)  
 
-i hope more to follow soon. i found more viol samples here.  
+--
+Besides my dubious efforts, there is a much better version of viols (more than one) in the package  
+[Early Music Ensemble (v3)](https://www.dropbox.com/s/v94z8sruj7yh0by/Early%20Music%20Ensemble%20%28v3%29%20SFZ%20Files.zip?dl=0)
+made by [Arianna Cunningham](https://www.youtube.com/channel/UCoSBT4PeH0fxfvA0zQUxWRw/about) for [Musescore](https://musescore.org/)
 
 ----
 
