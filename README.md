@@ -4,7 +4,7 @@
 
 ---
 
-gut-fretted underhanded bowed instruments (more than 4 strings), (a *detuned* cello with frets and more strings)  
+gut-fretted underhand bowed instruments (more than 4 strings), (a *detuned* cello with frets and more strings)  
 
 came up from mid to late 15th century and were most popular in the Renaissance and Baroque periods.  
 [here](https://en.wikipedia.org/wiki/Viol) you'll find more info
